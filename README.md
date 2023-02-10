@@ -1,4 +1,4 @@
-# MercadoLivre Backend
+# Base Typescript API using MVC architecture
 
 ### How to use
 
